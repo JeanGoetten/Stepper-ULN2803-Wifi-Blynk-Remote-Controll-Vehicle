@@ -5,9 +5,9 @@
 #define BLYNK_PRINT Serial
 
 
-char auth[] = "XvBFoiS0bmFclTcmOx7aK_VCIyzd07py";
-char ssid[] = "StarTec_Jean Carlos";
-char pass[] = "jean12345";
+char auth[] = " "; //Blynk touken
+char ssid[] = " "; //Wifi Name
+char pass[] = " "; //Wifi Password
 
 int steppes_per_revolution = 200;
 int steppes_live = 1; 
